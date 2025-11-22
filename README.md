@@ -8,6 +8,10 @@ Created Data Pipeline to load flight booking CSV file in GCS bucket and using Gi
 **Deepwiki documentation URL:** https://deepwiki.com/ViinayKumaarMamidi/GCP_Flight_Booking_Airflow_GCS_to_BQ_to_Looker_End_to_End_Project
 
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ViinayKumaarMamidi/GCP_Flight_Booking_Airflow_GCS_to_BQ_to_Looker_End_to_End_Project)
+
+
+
 **Project Details:**
 1. Implemented Connections to my Github in VS Code, created a repo and activated the connections
 2. Implemented Pyspark script to read the flight_booking.CSV file from GCS bucket and performed transformations and loaded into Stgaing and final tables in Big Query
