@@ -5,6 +5,9 @@ This repo contains details about end to end implementation of the GCP GCS to BQ 
 
 Created Data Pipeline to load flight booking CSV file in GCS bucket and using Github Actions yml file- deployed Pyspark/Python files, required variables in Json file, leveraged Serverless Dataproc Cluster, Loaded the data into corresponding DEV/PROD BigQuery tables and implemented Looker Dashboard on PROD BQ Table
 
+**Deepwiki documentation URL:** https://deepwiki.com/ViinayKumaarMamidi/GCP_Flight_Booking_Airflow_GCS_to_BQ_to_Looker_End_to_End_Project
+
+
 **Project Details:**
 1. Implemented Connections to my Github in VS Code, created a repo and activated the connections
 2. Implemented Pyspark script to read the flight_booking.CSV file from GCS bucket and performed transformations and loaded into Stgaing and final tables in Big Query
